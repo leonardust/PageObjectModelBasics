@@ -1,0 +1,10 @@
+03/03/2019 12:18:03 devpinoyLogger Config file loaded !!!
+03/03/2019 12:18:03 devpinoyLogger OR file loaded !!!
+03/03/2019 12:18:14 devpinoyLogger Navigated to: https://www.zoho.com
+03/03/2019 12:18:18 devpinoyLogger Clicking on an Element : loginlink_CSS
+03/03/2019 12:18:19 devpinoyLogger Typing in an Element : username_ID  Entered value : jodlllla66@gmail.com
+03/03/2019 12:18:19 devpinoyLogger Typing in an Element : password_ID  Entered value : Selenium@123
+03/03/2019 12:18:19 devpinoyLogger Clicking on an Element : submitBtn_ID
+03/03/2019 12:18:33 devpinoyLogger Clicking on an Element : accountsTab_CSS
+03/03/2019 12:18:33 devpinoyLogger Clicking on an Element : createAccountBtn_CSS
+03/03/2019 12:18:34 devpinoyLogger Typing in an Element : accountName_ID  Entered value : leo
