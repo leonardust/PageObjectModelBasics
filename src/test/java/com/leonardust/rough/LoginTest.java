@@ -14,7 +14,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 		
-		//This is a rough test
+		//Using EGit plugin
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 		ZohoAppPage zoho = login.doLogin("leotesterbox@gmail.com", "Selenium@123");
